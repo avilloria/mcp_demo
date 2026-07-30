@@ -1,0 +1,4 @@
+PS C:\Users\3804\proyectos_python\mcp_demo> Start-Process -FilePath "c:\Program Files\Python313\python.exe" -ArgumentList "-m venv venv" -NoNewWindow -Wait
+PS C:\Users\3804\proyectos_python\mcp_demo> Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+PS C:\Users\3804\proyectos_python\mcp_demo> .\venv\Scripts\Activate.ps1
+(venv) PS C:\Users\3804\proyectos_python\mcp_demo> 
